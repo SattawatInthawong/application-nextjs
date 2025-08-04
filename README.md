@@ -11,8 +11,11 @@ Icon: Iconify
 MongoDB
 
 name: register-login-nextjs
+
 Database name: Cluster
+
 username: admin
+
 password: admin_12345678
 
 nextauth secret: authUser
